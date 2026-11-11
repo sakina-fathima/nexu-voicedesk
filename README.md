@@ -35,5 +35,15 @@ A hands-free, voice-first task assistant designed specifically for field technic
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/sakina-fathima/nexu-voicedesk.git](https://github.com/sakina-fathima/nexu-voicedesk.git)
+   ## Download & Test the App
+
+You can test the compiled MVP app directly on your Android emulator (such as BlueStacks) without setting up a source code environment[cite: 2]:
+
+1. **Download the APK:** 
+   👉 [Download NEXU-VoiceDesk MVP APK](https://github.com/sakina-fathima/nexu-voicedesk/releases/download/mvp-release/application-aaf77f20-aafa-4573-b497-92f1e560fd60.apk)[cite: 2]
+2. **Run in BlueStacks:**
+   - Launch **BlueStacks** on your computer.
+   - Drag and drop the downloaded `.apk` file directly onto the emulator window to install it.
+   - Tap the **NEXU-VoiceDesk** icon on the home screen to launch, test voice/text inputs, and verify local `AsyncStorage` persistence.
    cd nexu-voicedesk
    ```
