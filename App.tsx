@@ -689,7 +689,7 @@ export default function App() {
           </View>
           <View style={styles.aboutRow}>
             <Text style={styles.aboutLabel}>Task Received Date & Time:</Text>
-            <Text style={styles.aboutValue}>11 November 2026, 10:00 AM</Text>
+            <Text style={styles.aboutValue}>11 November 2026, 8:35 AM</Text>
           </View>
           <View style={styles.aboutRow}>
             <Text style={styles.aboutLabel}>Position:</Text>
